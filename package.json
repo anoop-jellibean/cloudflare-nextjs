@@ -4,7 +4,7 @@
   "private": true,
   "sideEffects": false,
   "engines": {
-    "node": "12.18.0"
+    "node": "12.22.0"
   },
   "scripts": {
     "dev": "next dev --port 5000",
